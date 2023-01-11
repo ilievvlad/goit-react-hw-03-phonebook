@@ -15,7 +15,7 @@ export const Contact = styled.p`
 	color: var(--gray);
 `;
 
-export const Number = styled.span`
+export const Num = styled.span`
 	display: inline-block;
 	margin-left: 10px;
 	font-size: 18px;
